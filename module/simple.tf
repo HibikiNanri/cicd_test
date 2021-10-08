@@ -18,7 +18,7 @@ variable "test_map_var" {
 
 variable "test_str_var" {
 	type = string
-	default = "default_str_value123456789ABCDEFG"
+	default = "default_str_value123456789ABCDEFGHI"
 }
 
 output "output_map_key1" {
